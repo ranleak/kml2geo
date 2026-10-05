@@ -1,0 +1,4 @@
+*.kml
+*.geojson
+output
+output/*
